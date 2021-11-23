@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oldgrognard
 - 👀 I’m interested in:
   - cooperative multiplayer gaming
-  - not getting killed by the hospital
 - 🌱 I’m currently learning React and related technologies
 - 💞️ I’m looking to collaborate on:
   - Avorion
