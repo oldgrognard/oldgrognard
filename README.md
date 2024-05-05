@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @oldgrognard
 - 👀 I’m interested in:
   - cooperative multiplayer gaming
-- 🌱 I’m currently learning React and related technologies
+- 🌱 I’m currently trying to create a new file type
 - 💞️ I’m looking to collaborate on:
-  - Avorion
-  - Baldur's Gate III
+  - ???  
 - 📫 How to reach me: My discord channel
 
 <!---
